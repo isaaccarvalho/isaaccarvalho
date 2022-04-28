@@ -1,20 +1,8 @@
 ### Hi there 👋
 I'm Isaac, Web Designer and Front-end Developer
-Marketing Advisor at https://github.com/encautech
-<!--
-**isaaccarvalho/isaaccarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>Marketing Advisor at <a href="https://github.com/encautech">Encautech Jr</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
 
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" title="HTML" width="40" height="40"/> 
@@ -23,3 +11,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="csharp" title="C Sharp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40"/> 
+  
+#### Tools
+<p align="left"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" title="Vs Code" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" title="Android Studio" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40"/>
