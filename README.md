@@ -29,6 +29,7 @@ I'm Isaac, Web Designer and Front-end Developer
 #### Extras
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="Wordpress" title="Wordpress" width="40" height="40"/>
 
 
   
