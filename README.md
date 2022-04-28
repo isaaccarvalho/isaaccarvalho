@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Isaac, Web Designer and Front-end Developer
+Marketing Advisor at https://github.com/encautech
 <!--
 **isaaccarvalho/isaaccarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" title="HTML" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" title="CSS" width="40" height="40"/> 
+<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> 
+<img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="csharp" title="C Sharp" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40"/> 
