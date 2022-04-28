@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 I'm Isaac, Web Designer and Front-end Developer
 <br>Marketing Advisor at <a href="https://github.com/encautech">Encautech Jr</a>
 <br> Control and Automation Engineering
