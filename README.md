@@ -1,7 +1,6 @@
 <!--<img src="https://user-images.githubusercontent.com/45897757/165803660-d73ec054-dd03-4622-baa0-30e96fd20e44.png" height="180">-->
 
-### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-
+# Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 I'm <b>Isaac</b>, Web Designer and Front-end Developer
 <br>Marketing Advisor at <a href="https://github.com/encautech">Encautech Jr</a>.
 ###### <a href="https://www.isaacdesigner.com">https://www.isaacdesigner.com</a>
@@ -10,6 +9,12 @@ I'm <b>Isaac</b>, Web Designer and Front-end Developer
 ![GitHub followers](https://img.shields.io/github/followers/isaaccarvalho?label=Follow&style=social)
 
 <br>
+
+#### Repositories
+<p align="left">
+<a href="https://github.com/encautech"><img src="https://media2.giphy.com/media/CoEYzNBQFRR3NxBdzx/giphy.gif?cid=ecf05e477tpbc36t2pz6c2vivb0vxl0yhv122brbyusajx4e&rid=giphy.gif&ct=s" height="54" alt="Encautech"></a>
+<a href="https://github.com/isaaccarvalho/cefetmg/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Logo_CEFET-MG.png/768px-Logo_CEFET-MG.png" height="54" alt="CEFET-MG"><a>
+
 
 #### Languages
 
