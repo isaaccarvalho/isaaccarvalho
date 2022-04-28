@@ -15,5 +15,15 @@ I'm Isaac, Web Designer and Front-end Developer
 #### Tools
 <p align="left"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" title="Vs Code" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" title="Android Studio" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" title="Android Studio" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" title="Figma" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" title="Adobe XD" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40"/>
+  
+#### Extras
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" width="40" height="40"/>
+
+
+  
+  
