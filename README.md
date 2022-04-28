@@ -13,6 +13,7 @@ I'm Isaac, Web Designer and Front-end Developer
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40"/> 
   
 #### Tools
+  
 <p align="left"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" title="Vs Code" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" title="Android Studio" width="40" height="40"/>
@@ -22,6 +23,7 @@ I'm Isaac, Web Designer and Front-end Developer
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40"/>
   
 #### Extras
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" width="40" height="40"/>
 
 
