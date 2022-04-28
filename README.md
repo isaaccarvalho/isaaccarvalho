@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 I'm Isaac, Web Designer and Front-end Developer
-<br>Marketing Advisor at <a href="https://github.com/encautech">Encautech Jr</a>
-<br> Control and Automation Engineering
+<br>Marketing Advisor at <a href="https://github.com/encautech">Encautech Jr</a>.
+<br> Control and Automation Engineering at CEFET-MG.
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Isaac&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-carvalho/)](https://www.linkedin.com/in/isaac-carvalho/)
 ![GitHub followers](https://img.shields.io/github/followers/isaaccarvalho?label=Follow&style=social)
