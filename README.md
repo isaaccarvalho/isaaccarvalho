@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 I'm Isaac, Web Designer and Front-end Developer
 <br>Marketing Advisor at <a href="https://github.com/encautech">Encautech Jr</a>.
-<br> Control and Automation Engineering at CEFET-MG.
+<!--<br> Control and Automation Engineering at CEFET-MG.-->
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Isaac&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-carvalho/)](https://www.linkedin.com/in/isaac-carvalho/)
 ![GitHub followers](https://img.shields.io/github/followers/isaaccarvalho?label=Follow&style=social)
@@ -27,9 +27,11 @@ I'm Isaac, Web Designer and Front-end Developer
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40"/>
   
 #### Extras
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="Wordpress" title="Wordpress" width="40" height="40"/>
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="Wordpress" title="Wordpress" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" width="40" height="40"/>
+
 
 
   
