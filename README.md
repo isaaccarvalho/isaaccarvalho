@@ -24,7 +24,8 @@ I'm <b>Isaac</b>, Web Designer and Front-end Developer
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> 
 <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="csharp" title="C Sharp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40"/>
+ <!--<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaccarvalho&layout=compact&exclude_repo=exposure-fusion&theme=buefy" alt="Top Langs" width="265"/>-->
   
 #### Tools
   
@@ -42,6 +43,7 @@ I'm <b>Isaac</b>, Web Designer and Front-end Developer
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="Wordpress" title="Wordpress" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" width="40" height="40"/>
 -->
+  
 
 
   
