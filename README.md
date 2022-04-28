@@ -6,7 +6,7 @@ I'm <b>Isaac</b>, Web Designer and Front-end Developer
 ###### <a href="https://www.isaacdesigner.com">https://www.isaacdesigner.com</a>
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Isaac&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-carvalho/)](https://www.linkedin.com/in/isaac-carvalho/)
-![GitHub followers](https://img.shields.io/github/followers/isaaccarvalho?label=Follow&style=social)
+[![GitHub Isaac](https://img.shields.io/github/followers/isaaccarvalho?label=follow&style=social)](https://github.com/isaaccarvalho)
 
 <br>
 
