@@ -1,10 +1,15 @@
+<!--<img src="https://user-images.githubusercontent.com/45897757/165803660-d73ec054-dd03-4622-baa0-30e96fd20e44.png" height="180">-->
+
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-I'm Isaac, Web Designer and Front-end Developer
+
+I'm <b>Isaac</b>, Web Designer and Front-end Developer
 <br>Marketing Advisor at <a href="https://github.com/encautech">Encautech Jr</a>.
-<!--<br> Control and Automation Engineering at CEFET-MG.-->
+###### <a href="https://www.isaacdesigner.com">https://www.isaacdesigner.com</a>
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Isaac&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-carvalho/)](https://www.linkedin.com/in/isaac-carvalho/)
 ![GitHub followers](https://img.shields.io/github/followers/isaaccarvalho?label=Follow&style=social)
+
+<br>
 
 #### Languages
 
@@ -26,12 +31,12 @@ I'm Isaac, Web Designer and Front-end Developer
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40"/>
   
-#### Extras
+<!--#### Extras
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="Wordpress" title="Wordpress" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" width="40" height="40"/>
-
+-->
 
 
   
