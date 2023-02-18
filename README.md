@@ -1,6 +1,6 @@
 <!--<img src="https://user-images.githubusercontent.com/45897757/165803660-d73ec054-dd03-4622-baa0-30e96fd20e44.png" height="180">-->
 
-# Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 I'm <b>Isaac</b>, Web Designer and Front-end Developer
 <br>Marketing Advisor at <a href="https://github.com/encautech">Encautech Jr</a>.
 ###### <a href="https://www.isaacdesigner.com">https://www.isaacdesigner.com</a>
